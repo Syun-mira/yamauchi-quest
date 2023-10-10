@@ -9,7 +9,7 @@ const Rank = () => {
 
   useEffect(() => {
     const fetchUsers = async () => {
-      const response = await axios.get("http://localhost:8000/api/users");
+      const response = await axios.get("/users");
       setUsers(response.data);
     };
     fetchUsers()
