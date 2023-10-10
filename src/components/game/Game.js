@@ -83,7 +83,7 @@ const Game = () => {
             ],
         },
         {
-            questionText: '山内君が洋楽を聞いてる人に対して抱いている下劣な思考は？',
+            questionText: '山内君の洋楽を聞いている人に対する下劣な思考は？',
             answerOptions: [
                 { answerText: 'スワヒリ語の曲も聞いてるの？', isCorrect: false },
                 { answerText: '英語がわからないなら聞く意味がわからない', isCorrect: true },
