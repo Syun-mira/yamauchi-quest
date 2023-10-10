@@ -233,7 +233,7 @@ const Game = () => {
             window.alert("名前を入力してください")
             return
         };
-        await axios.post("/post/register", {
+        await axios.post("http://localhost:8000/api/post/register", {
             username: registerName.current.value,
             score: score,
         });
