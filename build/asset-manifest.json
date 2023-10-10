@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07cf8d62.css",
+    "main.js": "/static/js/main.786d559a.js",
+    "static/js/787.6ecd3e47.chunk.js": "/static/js/787.6ecd3e47.chunk.js",
+    "static/media/image1.jpeg": "/static/media/image1.57d5e59ff40d2afa150c.jpeg",
+    "static/media/image7.jpeg": "/static/media/image7.4aab7c5c4b7cbaadfa7f.jpeg",
+    "static/media/image4.jpeg": "/static/media/image4.dc393c033a6f4ded0b7d.jpeg",
+    "static/media/image3.jpeg": "/static/media/image3.2345d7b9927cdc6bf4ad.jpeg",
+    "static/media/image8.jpeg": "/static/media/image8.ff2544633d88fa2add87.jpeg",
+    "static/media/image9.jpeg": "/static/media/image9.9029e41a4fa2aac99889.jpeg",
+    "static/media/image2.jpeg": "/static/media/image2.06d0a5972f5adfb6f7cc.jpeg",
+    "static/media/volcano-2728184_1280.webp": "/static/media/volcano-2728184_1280.fbb1092883300654cb1c.webp",
+    "static/media/yamachii.jpg": "/static/media/yamachii.2a4f66d8c78aff15f13e.jpg",
+    "index.html": "/index.html",
+    "main.07cf8d62.css.map": "/static/css/main.07cf8d62.css.map",
+    "main.786d559a.js.map": "/static/js/main.786d559a.js.map",
+    "787.6ecd3e47.chunk.js.map": "/static/js/787.6ecd3e47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07cf8d62.css",
+    "static/js/main.786d559a.js"
+  ]
+}
