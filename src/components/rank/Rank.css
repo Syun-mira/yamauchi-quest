@@ -1,0 +1,57 @@
+.Rank{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(31, 5, 5);
+    color: rgb(187, 196, 196);
+}
+
+.blaank{
+    width: 100px;
+    height: 30px;
+}
+
+.Rank{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.rank-map{
+    border: 3px solid rgb(110, 101, 101);
+    width: 380px;
+    margin-bottom: 10px;
+}
+
+.time-score{
+    display: flex;
+}
+
+.user-score{
+    margin-right: 10px;
+}
+
+.user-time{
+    opacity: 0.5;
+    font-size: 10px;
+}
+
+.take{
+    list-style: none;
+}
+
+.takeBack{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    border:2px solid #616161;
+    background-color: #b0a0a0;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    width: 150px;
+    height: 60px;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-top: 20px;
+}
